@@ -1,0 +1,6 @@
+torch==1.6.0
+tensorflow_gpu==1.14.0
+pytorch_transformers==1.2.0
+numpy==1.16.4
+six==1.15.0
+tensorflow==1.14.0
